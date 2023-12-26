@@ -1,0 +1,48 @@
+# .NET build files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.vspscc
+*.vssscc
+*.psess
+*.vsix
+*.nupkg
+*.pfx
+*.snk
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Build directories
+$Recycle.Bin/
+$tf/
+*.tmp
+*.swp
+
+appsettings.json
